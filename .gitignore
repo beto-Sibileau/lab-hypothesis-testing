@@ -10,6 +10,10 @@
 #   git rm -r .ipynb_checkpoints/
 #
 
+# do not track these files / folder
+Datasets.zip
+data
+
 ### macOS ###
 # General
 .DS_Store
